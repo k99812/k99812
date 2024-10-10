@@ -3,7 +3,7 @@
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k99812&show_icons=true&theme=dark)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k99812&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k99812&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 # Skills
 ![unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=#000000)
