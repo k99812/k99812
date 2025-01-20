@@ -1,7 +1,6 @@
 
-<div>
 ## Kim Jun Seo
-</div>
+  
 <div align=center>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k99812)](https://solved.ac/k99812/)
@@ -12,9 +11,8 @@
 
 </div>
 
-<center>
+
 # Skills
-</center>
 
 <div align=center>
   
