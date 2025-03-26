@@ -27,6 +27,7 @@
 
 <div align=center>
 
+<hr>
 [![몽몽 메타몽](https://img.youtube.com/vi/a5uacfAPg2o/0.jpg)](https://www.youtube.com/watch?v=a5uacfAPg2o)
 
 </div>
