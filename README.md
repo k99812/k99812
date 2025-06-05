@@ -3,12 +3,16 @@
   
 <div align=center>
   
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k99812&show_icons=true&theme=cold)
 
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k99812&show_icons=true&theme=cold)
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k99812&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k99812)](https://solved.ac/k99812/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=k99812&theme=dark)
 
