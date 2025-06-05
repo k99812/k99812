@@ -29,6 +29,12 @@
 
 </div>
 
+# Projects
+|프로젝트|프로젝트설명|기간|
+|:---:|:---:|:---:|
+|<strong>[Project_P](https://github.com/k99812/Project_P)<strong>|언리얼 엔진 <br> 개인 포트폴리오|2024.06 ~ 진행중|
+|<strong>[WKMetaverse](https://github.com/k99812/WKMetaverse)<strong>|유니티 멀티플레이 <br> 팀 프로젝트|2022.06 ~ 2022.12|
+
 #
 
 <div align=center>
