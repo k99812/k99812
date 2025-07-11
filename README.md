@@ -38,6 +38,7 @@
 <br/>
 ![unrealengine](https://img.shields.io/badge/unrealengine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=#0E1128)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=k99812)](https://solved.ac/k99812)
+![Visited](https://komarev.com/ghpvc/?username=k99812&label=Visited&abbreviated=true&color=blue&style=flat-square)
 
 </div>
 
