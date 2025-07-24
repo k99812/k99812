@@ -1,5 +1,5 @@
 
-## Kim Jun Seo ![Visited](https://komarev.com/ghpvc/?username=k99812&label=Visited&abbreviated=true&color=blue&style=flat-square)
+# Kim Jun Seo ![Visited](https://komarev.com/ghpvc/?username=k99812&label=Visited&abbreviated=true&color=blue&style=flat-square) 
   
 <div align=center>
   
