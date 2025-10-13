@@ -9,7 +9,6 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=k99812&theme=dark)
 
 <br/>
-[![k99812 GitHub stats](https://github-readme-stats.vercel.app/api?username=k99812)](https://github.com/k99812/github-readme-stats)
 ![k99812 GitHub stats](https://github-readme-stats.vercel.app/api?username=k99812&show_icons=true&theme=cold)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k99812&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
