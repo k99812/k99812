@@ -40,16 +40,16 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github.com/k99812/k99812/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
-
 #
 
 <div align=center>
 
 [![몽몽 메타몽](https://img.youtube.com/vi/a5uacfAPg2o/0.jpg)](https://www.youtube.com/watch?v=a5uacfAPg2o)
 
+</div>
+
+<div align="center">
+  <img src="https://github.com/k99812/k99812/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 
