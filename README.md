@@ -10,7 +10,7 @@
 
 <br/>
 
-![k99812 GitHub stats](https://github-readme-stats.vercel.app/api?username=k99812&show_icons=true&theme=default)
+![Github Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k99812&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k99812&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -39,6 +39,10 @@
 ![unrealengine](https://img.shields.io/badge/unrealengine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=#0E1128)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=k99812)](https://solved.ac/k99812)
 
+</div>
+
+<div align="center">
+  <img src="https://github.com/k99812/k99812/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 #
