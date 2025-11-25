@@ -29,7 +29,7 @@ jobs:
           
           # [기본 통계] 숨김 (Isometric 달력만 돋보이게 하려면 'base: ""' 로 설정)
           # 여기서는 달력과 함께 기본 정보도 나오게 설정했습니다.
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
 
           # [플러그인] Isometric Commit Calendar (입체 달력) 활성화
           plugin_isocalendar: yes
