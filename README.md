@@ -11,7 +11,6 @@
 <br/>
 
 ![Github Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k99812&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k99812&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
