@@ -1,0 +1,36 @@
+name: Metrics
+on:
+  # 매일 자정(한국시간 오전 9시)에 자동 실행
+  schedule: [{cron: "0 0 * * *"}]
+  # 수동으로 실행 가능하게 설정
+  workflow_dispatch:
+  # 메인 브랜치에 push가 일어날 때마다 실행 (선택사항)
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 아까 등록한 토큰 사용
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # [설정] 사용자 ID
+          user: k99812
+          
+          # [설정] 출력 파일 이름
+          filename: github-metrics.svg
+          
+          # [설정] 기본 템플릿 사용
+          template: classic
+          
+          # [기본 통계] 숨김 (Isometric 달력만 돋보이게 하려면 'base: ""' 로 설정)
+          # 여기서는 달력과 함께 기본 정보도 나오게 설정했습니다.
+          base: header, activity, community, repositories, metadata
+
+          # [플러그인] Isometric Commit Calendar (입체 달력) 활성화
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # 1년치 데이터 표시
